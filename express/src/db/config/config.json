@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "mynameis",
-    "password": "nHAC&%n47inH",
-    "database": "express",
+    "username": "mongo-db-user",
+    "password": "nHAC&%n4ACaninHAC&%n47inH",
+    "database": "ecommerce",
     "host": "db",
     "dialect": "mysql"
   },
